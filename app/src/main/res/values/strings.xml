@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+    <string name="textView">Create by Abdiel</string>
+    <string name="button">Go To Website</string>
+    <string name="button1">Get Support</string>
+    <string name="button2">Return</string>
+</resources>

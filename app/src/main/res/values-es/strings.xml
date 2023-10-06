@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+    <string name="textView">Creado Por jovito Abdiel</string>
+    <string name="button">Ir al Sitio Web</string>
+    <string name="button1">Obtener Soporte</string>
+    <string name="button2">Volver</string>
+</resources>
